@@ -1,0 +1,26 @@
+Note
+
+Version 3.2 of QMENU.BAS and QMRT.BAS have been revised to be compatible with
+both QuickBASIC 4.5 and BASIC 7 PDS.  To Recompile QuickMenu or QMRT, you must
+have Crescent Softwares QuickPak Professional for your compiler.
+
+We have included sample response files for BASIC 7 use only.  Also included
+is the Logo file for use with QMRT, to reduce the amount of startup memory
+needed when running.
+
+Please note that QuickMenu is licenced to you for one user only, and that
+source code is provided mainly for educational purposes.  If you want to
+write your own menu program for distribution, you may use QuickMenu for
+inspiration, but not for a starting point.  If you start with QuickMenu
+it is our code and must be licenced, no matter how extensive the
+modifications may be.  If you start with a blank screen, it's your code.
+
+If you are a developer you may provide your user with a 'canned' menu and
+use QMRT.EXE without licencing.  If you need to distribute the QMENU.EXE,
+please call for more information.
+
+Crescent Software
+32 Seventy Acres
+West Redding, CT 06896
+(203) 438-5300
+(203) 431-4626 Fax
